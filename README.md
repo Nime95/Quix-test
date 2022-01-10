@@ -1,2 +1,0 @@
-# quix-test
-Quix test
