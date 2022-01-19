@@ -12,8 +12,8 @@ const config = {
   },
   projects: [
     // {
-      //  name: 'chromium',
-      //  use: { ...devices['Desktop Chromium'] }, 
+    //  name: 'chromium',
+    //  use: { ...devices['Desktop Chromium'] }, 
     // },
 
     //   {
